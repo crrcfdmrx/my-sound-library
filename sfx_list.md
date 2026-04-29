@@ -22,6 +22,7 @@
 | 文件名 | 描述 / 用法 | 直接链接 |
 | :--- | :--- | :--- |
 | trans_pageflip.mp3 | 快速翻书声，段落间过渡 | [复制链接](https://cdn.jsdelivr.net/gh/crrcfdmrx/my-sound-library/sfx/trans_pageflip.mp3) |
+| trans_pageflip.mp3 | 快速翻书声，段落间过渡 | [复制链接](https://cdn.jsdelivr.net/gh/crrcfdmrx/my-sound-library/sfx/zc_mp3_url.mp3) |
 
 ## 🌧 氛围
 | 文件名 | 描述 / 用法 | 直接链接 |
